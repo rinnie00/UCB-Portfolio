@@ -1,0 +1,12 @@
+---
+:id: 418528831
+:submitters:
+- :name: Yerin Choi
+  :email: rin00@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-07-11 05:04:07.510239000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-07-10 22:04:07.510239000 Z
+:status: processed
+:score: 25.0
